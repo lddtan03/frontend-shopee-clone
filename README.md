@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Frontend Shopee Clone
 
 ## Project Features
